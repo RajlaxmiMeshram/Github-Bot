@@ -1,0 +1,25 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "do you want to be the cool kid at school?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajlaxmiMeshram/github-bot.git"
+  },
+  "author": "Rajlaxmi Meshram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajlaxmiMeshram/github-bot/issues"
+  },
+  "homepage": "https://github.com/RajlaxmiMeshram/github-bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^4.1.0",
+    "simple-git": "^3.15.1"
+  }
+}
